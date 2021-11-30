@@ -1,0 +1,20 @@
+{
+  "files": {
+    "lexer.hpp": [
+      {
+        "id": "119273fa-bd05-4a89-a854-65110cbdea72",
+        "line": 2,
+        "version": 19,
+        "index": 19
+      }
+    ],
+    "menu.xml": [
+      {
+        "id": "b54b7af6-e270-438d-8ac2-41193ff14279",
+        "line": 47,
+        "version": 3690,
+        "index": 1253
+      }
+    ]
+  }
+}
