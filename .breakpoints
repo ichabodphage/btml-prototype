@@ -1,5 +1,19 @@
 {
   "files": {
+    "btml.cpp": [
+      {
+        "id": "ae8570b2-c17a-4c3a-8659-cc68e5a67f7a",
+        "line": 9,
+        "version": 5883,
+        "index": 188
+      },
+      {
+        "id": "078135bd-a206-40e0-bc9e-519de3a9251b",
+        "line": 41,
+        "version": 5883,
+        "index": 1256
+      }
+    ],
     "lexer.hpp": [
       {
         "id": "119273fa-bd05-4a89-a854-65110cbdea72",
@@ -11,9 +25,25 @@
     "menu.xml": [
       {
         "id": "b54b7af6-e270-438d-8ac2-41193ff14279",
-        "line": 47,
-        "version": 3690,
-        "index": 1253
+        "line": 49,
+        "version": 3931,
+        "index": 1271
+      }
+    ],
+    "source/BtmlXmlHandler.hpp": [
+      {
+        "id": "5ff609a7-f3c3-490b-a72d-0300fcc8c0b5",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
+    "source/DocumentHandler.cpp": [
+      {
+        "id": "9e6aa8d8-d9d6-4dc7-a25b-460e9e5cf761",
+        "line": 3,
+        "version": 89,
+        "index": 32
       }
     ]
   }

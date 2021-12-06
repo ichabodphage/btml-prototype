@@ -1,47 +1,49 @@
 <btml>
-  <p> btml format options</p>
+	<body>
+  	<p> btml format options</p>
 
-  <underline>underlined</underline>
-  <dim>dim</dim>
-  <invert>invert</invert>
-  <bold>bold</bold>
-  <ul>ullist
-    <li> li list item</li>
-  </ul>
-  <p> btml colors</p>
-  <ul color = "ff0000">red
-    <li><underline>underlined red</underline></li>
-    <li><dim>dim red</dim></li>
-    <li><invert>invert red</invert></li>
-    <li><bold>bold red</bold></li>
-  </ul>
+  	<underline>underlined</underline>
+  	<dim>dim</dim>
+  	<invert>invert</invert>
+  	<bold>bold</bold>
+  	<ul>ullist
+    	<li> li list item</li>
+  	</ul>
+		
+  	<p>btml colors</p>
+  	<ul color = "ff0000">red
+    	<li><underline>underlined red</underline></li>
+    	<li><dim>dim red</dim></li>
+    	<li><invert>invert red</invert></li>
+    	<li><bold>bold red</bold></li>
+  	</ul>
 
-  <ul color = "ffff00">yellow
-    <li><underline>underlined yellow</underline></li>
-    <li><dim>yellow</dim></li>
-    <li><invert>invert yellow</invert></li>
-    <li><bold>bold yellow</bold></li>
-  </ul>
+  	<ul color = "ffff00">yellow
+    	<li><underline>underlined yellow</underline></li>
+    	<li><dim>yellow</dim></li>
+    	<li><invert>invert yellow</invert></li>
+    	<li><bold>bold yellow</bold></li>
+  	</ul>
 
-  <ul color = "00ff00">green
-    <li><underline>underlined green</underline></li>
-    <li><dim>dim green</dim></li>
-    <li><invert>invert green</invert></li>
-    <li><bold>bold green</bold></li>
-  </ul>
+  	<ul color = "00ff00">green
+    	<li><underline>underlined green</underline></li>
+    	<li><dim>dim green</dim></li>
+    	<li><invert>invert green</invert></li>
+    	<li><bold>bold green</bold></li>
+  	</ul>
 
-  <ul color = "00ffff">cyan
-    <li><underline>underlined cyan</underline></li>
-    <li><dim>dim cyan</dim></li>
-    <li><invert>invert cyan</invert></li>
-    <li><bold>bold cyan</bold></li>
-  </ul>
+  	<ul color = "00ffff">cyan
+    	<li><underline>underlined cyan</underline></li>
+    	<li><dim>dim cyan</dim></li>
+    	<li><invert>invert cyan</invert></li>
+    	<li><bold>bold cyan</bold></li>
+  	</ul>
 
-  <ul color = "0000ff">blue
-    <li><underline>underlined blue</underline></li>
-    <li><dim>dim blue</dim></li>
-    <li><invert>invert blue</invert></li>
-    <li><bold>bold blue</bold></li>
-  </ul>
-  <p>btml supports 16 bit hex colors</p>
+  	<ul color = "0000ff">blue
+    	<li><underline>underlined blue</underline></li>
+    	<li><dim>dim blue</dim></li>
+    	<li><invert>invert blue</invert></li>
+    	<li><bold>bold blue</bold></li>
+  	</ul>
+	</body>
 </btml>

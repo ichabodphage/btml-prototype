@@ -1,9 +1,8 @@
 #include <iostream>
 #include "pugixml/pugixml.hpp"
-#include "btml.hpp"
+#include "include/BtmlStream.hpp"
 int main() {
 
-  btml::BtmlParser p("menu.xml");
-  p.coutParseDoc();
-  
+  btml::BtmlStream bout;
+	bout << "menu.xml";
 } 
