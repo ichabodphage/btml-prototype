@@ -1,6 +1,6 @@
 #include <iostream>
 #include "pugixml/pugixml.hpp"
-#include "include/BtmlStream.hpp"
+#include "source/BtmlStream.hpp"
 int main() {
 
   btml::BtmlStream bout;
